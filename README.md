@@ -35,8 +35,14 @@ npx hardhat run scripts/interact.ts --network bsctestnet
 
 # Note to add environment variables before running the project:
 
+```shell
 export PRIVATE_KEY="0x867543............7865"
+
 export PRIVATE_KEY_2="0x687543............7865"
+
 export PRIVATE_KEY_3="0x926543............7865"
+
 export PRIVATE_KEY_4="0x016543............7865"
+
 export EXPLORER_KEY="KUYYTDGFGHHJJSAMPLEIY8TR56879YGF"
+```
